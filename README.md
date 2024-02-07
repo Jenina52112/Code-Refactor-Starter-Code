@@ -5,5 +5,5 @@ Some of these requirements are:
 -alt are provided for the site to be accessible
 -CSS files are consolidated and organized
 -html file follow a semantic structure
-Link to the page: https://github.com/Jenina52112/HoriseonCode_Refactoring_Challenge
+Link to the page: Horiseon Official Website (jenina52112.github.io)
 ![alt text](<Horiseon Screenshot.png>)
